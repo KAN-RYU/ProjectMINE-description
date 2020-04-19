@@ -1,2 +1,2 @@
 # ProjectMINE-description
-![hi](./Images/스토리보드 -0.png)
+![스토리보드 -0](./Images/스토리보드 -0.png)
