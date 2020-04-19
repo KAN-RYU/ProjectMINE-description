@@ -6,6 +6,7 @@
 ![스토리보드-0](./Images/스토리보드-4.png)
 ![스토리보드-0](./Images/스토리보드-5.png)
 ![스토리보드-0](./Images/스토리보드-6.png)
+![룰](./Images/룰-9.png)
 ![룰](./Images/룰-1.png)
 ![룰](./Images/룰-2.png)
 ![룰](./Images/룰-3.png)
